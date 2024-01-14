@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "ics": "^3.7.2",
+    "node-html-parser": "^6.1.12"
+  }
+}
